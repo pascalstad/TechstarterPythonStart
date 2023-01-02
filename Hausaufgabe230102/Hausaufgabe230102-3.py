@@ -6,3 +6,4 @@ for i in range(101):
     sum = sum + i
     print(sum)
     i = i + 1
+print("Summer aller Zahlen von 0 bis 100:", sum)
